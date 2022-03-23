@@ -1,0 +1,37 @@
+.footer__title{
+    font-family: $font-title;
+    text-align: center;
+    font-size: 32px;
+    color: $highlight-color;
+    margin: 0;
+  }
+  
+  .footer__team{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 0;
+    
+  }
+   
+  .footer_user{
+    font-family: $font-general;
+    font-size: 18px;;
+    }
+  
+  .footer__text{
+    text-align: center;
+    font-family: $font-general;
+    font-size: 18px;
+    background-color: $form-color;
+    box-shadow: $box-shadow;
+  }
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+
+ 
+
